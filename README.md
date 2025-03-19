@@ -39,9 +39,4 @@ Now you can push without a password:
 ✅ You’ve now configured passwordless SSH-based Git push! 😎
 
 
-```javascript
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
 
