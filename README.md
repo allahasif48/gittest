@@ -38,3 +38,10 @@ Now you can push without a password:
 🚀 Done!
 ✅ You’ve now configured passwordless SSH-based Git push! 😎
 
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
